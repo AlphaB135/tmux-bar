@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 objc = "0.2"
 cocoa = "0.26"
+ansi-to-html = "0.2"
